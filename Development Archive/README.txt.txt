@@ -1,0 +1,1 @@
+These folders contain earlier development versions of the project scripts retained as evidence of the iterative development process. The current game scripts are located in the Assets folder.
